@@ -6,3 +6,4 @@
 */
 
 basic.showString('Hello, World!')
+let strip = neopixel.create(DigitalPin.P16, 4, NeoPixelMode.RGB)
